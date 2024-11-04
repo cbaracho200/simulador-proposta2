@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import os
-import plotly.express as px
 from login import *
 import math
 from pathlib import Path
