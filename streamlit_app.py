@@ -8,7 +8,7 @@ import math
 from pathlib import Path
 
 st.set_page_config(page_title="VL-App", page_icon="📊",layout="wide", initial_sidebar_state="expanded")
- DATA_FILENAME = Path(__file__).parent/'data/gdp_data.csv'
+DATA_FILENAME = Path(__file__).parent/'data/gdp_data.csv'
 
 st.divider()
 st.title("📊 SIMULADOR DE PROPOSTA - VL")
